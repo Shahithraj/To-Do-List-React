@@ -1,5 +1,3 @@
-import logo from "./logo.svg";
-
 import InputArea from "./components/InputArea";
 import React, { useState } from "react";
 import TodoList from "./components/TodoList";
